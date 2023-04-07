@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Ronit Chinda</h1>
 <h3 align="center">Another noob in this Professional World!</h3>
 
-<img src="https://media.istockphoto.com/id/1324710864/vector/cute-astronaut-character-playing-laptop-cartoon-vector-icon-illustration.jpg?s=612x612&w=0&k=20&c=ysDTHAE_r-kRiBnEAQCq1fJsZSrwh1tOIYeftgtd_pk=" alt="coding" width=400> 
+<img src="https://media.istockphoto.com/id/1324710864/vector/cute-astronaut-character-playing-laptop-cartoon-vector-icon-illustration.jpg?s=612x612&w=0&k=20&c=ysDTHAE_r-kRiBnEAQCq1fJsZSrwh1tOIYeftgtd_pk=" alt="coding" width=100%> 
 
 - 🌱 I’m currently learning **Machine Learning,DSA,Algorithm,AI**
 
