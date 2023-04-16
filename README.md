@@ -3,7 +3,7 @@
 
 <img src="https://media.istockphoto.com/id/1324710864/vector/cute-astronaut-character-playing-laptop-cartoon-vector-icon-illustration.jpg?s=612x612&w=0&k=20&c=ysDTHAE_r-kRiBnEAQCq1fJsZSrwh1tOIYeftgtd_pk=" alt="coding" width=100%> 
 
-- 🌱 I’m currently learning **Machine Learning,DSA,Algorithm,AI**
+- 🌱 I’m currently learning **DSA,Algorithm,DBMS,AI**
 
 - 👨‍💻 All of my projects are available at [https://github.com/Ronit-Chinda/MyWork](https://github.com/Ronit-Chinda/MyWork)
 
